@@ -9,7 +9,7 @@ body{
 .header{
     display: flex;
     background-color: #1f2937;
-    padding: 50px 100px;
+    padding: 10px 100px;
     flex-direction: column;
     margin-bottom: 20px;
 }
@@ -70,9 +70,6 @@ h1{
     margin: 48px;
 }
 
-.image-container{
-    margin-left: 50px;
-}
 
 #site-image{
     width:400px;
