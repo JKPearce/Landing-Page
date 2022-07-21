@@ -123,3 +123,30 @@ h1{
     flex-wrap: wrap;
     width: 200px;
 }
+
+.quotes{
+    display: flex;
+    padding: 50px;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-content{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.quote-text{
+    display: flex;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-author{
+    font-weight: bold;
+}
