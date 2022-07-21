@@ -150,3 +150,46 @@ h1{
 .quote-author{
     font-weight: bold;
 }
+
+.calltoaction{
+    padding: 100px;
+}
+
+.calltoaction-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 50px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    
+}
+
+.calltoaction-text{
+    color: #f9faf8;
+    font-size: 14px;
+}
+
+.calltoaction-text h3{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cta-button{
+    padding: 10px 20px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    border-color: #f9faf8;
+    color: #f9faf8;
+    border-style: solid;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 10px;
+}
